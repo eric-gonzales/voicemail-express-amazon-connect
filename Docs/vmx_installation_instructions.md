@@ -19,7 +19,7 @@ Voicemail Express is deployed via AWS CloudFormation. In order to launch the tem
 
 Once you have the required information, you are ready to continue with the deployment.
 
-## Delploy the Cloudformation Template
+## Deploy the Cloudformation Template
 The next step is to deploy the CloudFormation template. This template builds all of the AWS resources required to make Voicemail Express work.
 1.  Open a new browser tab and then log into the [AWS console](https://console.aws.amazon.com/console/home). Be sure to set your region to match the region you have deployed Amazon Connect to, then return here.
 1.  Select the link below that matches your region to launch the template:
